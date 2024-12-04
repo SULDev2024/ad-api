@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "test": "mocha",
+        "build": "node build.js"
+    }
+}
